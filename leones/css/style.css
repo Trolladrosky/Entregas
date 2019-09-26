@@ -1,0 +1,79 @@
+body{
+	background-color: #EB773D;
+	font-family: 'Mansalva', cursive;
+}
+h1{
+
+}
+h2{
+
+}
+img{
+
+}
+#cabecera h1{
+	color: #EF5A29;
+	font-size: 70px;
+}
+#cabecera h2{
+	color: #EF5A29;
+	font-size: 45px;
+}
+#cabecera h3{
+	color: #EF5A29;
+	font-size: 40px;
+}
+#contenedor{
+	background-color: #CCB75A;
+	min-height: 1800px;
+	border-radius:5px; 
+}
+#cabecera{
+	text-align: center;
+	background-color: #FFEAAC;
+	border-radius:5px; 
+}
+#fondoimagen{
+	height: 352px;
+	width: 1300px;
+	background-color: #fff;
+	background:url(../img/leonnig.jpg);
+	border-radius:50px; 
+	background-size: cover;
+}
+#iconos{
+	text-align: center;
+
+}
+
+.fas{
+
+	color:black;
+	font-size:20px;
+	
+	 
+}
+#pestañas{
+	background-color: #FFEAAC;
+	border-radius:5px; 
+	height: 50px;
+	width: 1320px;
+	margin-left: 10px;
+}
+
+a{
+	height: 352px;
+	width: 1300px;
+	text-decoration: none;
+
+}
+
+.noticiaslorem{
+	background-color: #FFEAAC;
+	border-radius:5px; 
+	height: 80px;
+	width: 1300px;
+	margin-left: 10px;
+	border-radius: 10px;
+
+}
